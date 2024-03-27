@@ -1,6 +1,3 @@
-# ToDoList---FrontEndMentor
-
-
 <div align="center">
 <h1 font-size: 2rem; font-weight: 600; text-transform: uppercase;>To-Do List - Gerenciador de Tarefas</h1>
 
